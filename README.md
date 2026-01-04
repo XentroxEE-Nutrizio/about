@@ -2,7 +2,7 @@
 Inspired by works of Petar Nutrizio Grisogono croatian physiocratic thinker from Dalmatia,
 member of Brač-Hvar bishop Stratico's movement
 
-Petar Nutr1zio Grilsogono u Notizie per servire alla storia naturale della Dalmazia
+Petar Nutrizio Grilsogono u Notizie per servire alla storia naturale della Dalmazia
 opisuje zemljop1lsnu, zoo1ošku, geološku, hidrografsku i uopće fizičku pOjavnost Dalmacije i njezinu prirodu kao nešto što će čovjek iskorištavati i podrediti sebi.
 U Riflessioni sopra lo stato presente della Dalmazia, isti pl:sac je opisao zanate kao ono što pobuđuje poljodjeljstvo i diže cijenu sirovini. 
 Bez metalurgije nema poljodjelskog oruđa, pa ni napretka poljodjeljstva. I Rousseruu je u De l'inegalite parmi les hommes, smatrao da su čovjeka uljudi1i žito i željezo (fer et ble).
