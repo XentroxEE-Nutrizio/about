@@ -12,7 +12,7 @@ da se golet pošumi kestenima koji se mogu jesti, da se poboljša proizvodnja ul
 Po njegovu mišljenjU trgovina popravlja financije, bogati državu i oplemenjuje pokrajinu, pa navodi primjere Engleske, Francuske i Njemačke.
 
 --
-sočivice (leguminoze) - su pOvećavale plodnost zemljišta zbog svoje sposobnosti da vežu atmosferski dušik, ...
+sočivice (leguminoze) - su pvećavale plodnost zemljišta zbog svoje sposobnosti da vežu atmosferski dušik, ...
 izvor: Hist. čovječanstva, Kulturni razvoj, Louis,Gottschailk, Loren C. Mac Kinney 1 Earl H. Pritchard, 
 Temelji modernog svijeta, Znanost i tehnologija - Tehnologija i društvo - školstvo, Zagreb, 1974. str. 176.
 
