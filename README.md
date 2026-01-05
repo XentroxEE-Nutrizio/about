@@ -1,5 +1,5 @@
 # about
-Inspired by works of Petar Nutrizio Grisogono croatian physiocratic thinker from Dalmatia,
+Inspired by works of Petar Nutrizio Grisogono (1748–1823) croatian physiocratic thinker from Dalmatia,
 member of Brač-Hvar bishop Stratico's movement influenced by reald of French thinker's school - whose main represetnatives are Voltaire, Russeau and Montesquie
 
 Petar Nutrizio Grilsogono u "Notizie per servire alla storia naturale della Dalmazia"
