@@ -5,6 +5,7 @@ member of Brač-Hvar bishop Stratico's movement influenced by realm of French th
 - Physiocrats which established first scientific school of political economy.
 
 Among other things, dr. Petar Nutrizio Grisogono was president of council of City of Split, Croatia, in 1814. and interim city mayor 1814.-1818.
+Genealogy: https://www.geni.com/people/Dr-Petar-pl-Nutrizio-Grisogono/6000000051814914829
 
 Petar Nutrizio Grilsogono u "Notizie per servire alla storia naturale della Dalmazia"
 opisuje zemljopisnu, zooloošku, geološku, hidrografsku i uopće fizičku pojavnost Dalmacije i njezinu prirodu kao nešto što će čovjek iskorištavati i podrediti sebi.
