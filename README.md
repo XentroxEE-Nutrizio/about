@@ -1,6 +1,8 @@
 # about
 Inspired by works of Petar Nutrizio Grisogono (1748–1823) croatian physiocratic thinker from Dalmatia,
-member of Brač-Hvar bishop Stratico's movement influenced by reald of French thinker's school - whose main represetnatives are Voltaire, Russeau and Montesquie
+member of Brač-Hvar bishop Stratico's movement influenced by realm of French thinker's school - whose main represetnatives are Voltaire, Rousseau and Montesquieu
+- Physiocrats which established first scientific school of political economy.
+
 
 Petar Nutrizio Grilsogono u "Notizie per servire alla storia naturale della Dalmazia"
 opisuje zemljop1snu, zooloošku, geološku, hidrografsku i uopće fizičku pojavnost Dalmacije i njezinu prirodu kao nešto što će čovjek iskorištavati i podrediti sebi.
@@ -17,3 +19,8 @@ izvor: Hist. čovječanstva, Kulturni razvoj, Louis,Gottschailk, Loren C. Mac Ki
 Temelji modernog svijeta, Znanost i tehnologija - Tehnologija i društvo - školstvo, Zagreb, 1974. str. 176.
 
 more at: https://hrcak.srce.hr/file/130655
+
+Modern concept and teachings of Petar Nutrizio Grisogono and his group principally today would focus
+on application of terraforming concepts that would boost CO2 and other greenhouse gas emmisionas in form of soil Co2 sequastration
+by boosting SOC - Soil Organic Carbon. Example of one such measure is already mentioned seeding of nitrogen fixators with small footpring such as miniature growth
+Trifolium Repens var Pipolina - experimentally gron in Opuzen ad cover crop on fguture SOC-derived carbon credits scheme.
