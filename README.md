@@ -6,7 +6,7 @@ member of Brač-Hvar bishop Stratico's movement influenced by realm of French th
 
 
 Petar Nutrizio Grilsogono u "Notizie per servire alla storia naturale della Dalmazia"
-opisuje zemljop1snu, zooloošku, geološku, hidrografsku i uopće fizičku pojavnost Dalmacije i njezinu prirodu kao nešto što će čovjek iskorištavati i podrediti sebi.
+opisuje zemljopisnu, zooloošku, geološku, hidrografsku i uopće fizičku pojavnost Dalmacije i njezinu prirodu kao nešto što će čovjek iskorištavati i podrediti sebi.
 U "Riflessioni sopra lo stato presente della Dalmazia", isti pisac je opisao zanate kao ono što pobuđuje poljodjeljstvo i diže cijenu sirovini. 
 Bez metalurgije nema poljodjelskog oruđa, pa ni napretka poljodjeljstva. I Rousseruu je u "De l'inegalite parmi les hommes", smatrao da su čovjeka uljudi1i žito i željezo (fer et ble).
 Nutrizio GrilSogono je nadalje tražio poboljšanje proizvodnje sukna, industriju sapuna i opeke, uopće industrijalizaciju Dalmacije, kOja će sirovine uvoziti iz Hrvatske i Bosne i prerađivati ih.
