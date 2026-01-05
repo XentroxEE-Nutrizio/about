@@ -28,5 +28,5 @@ such as miniature growth Trifolium Repens var Pipolina - experimentally grown in
 
 Features and programming in this master-repo is dedicated to solving three things:
 - soil analysis and rapid data acquisition in-situ about soil properties on agriculture lands
-- improving status of such soils to capture more carbon frmo atmoshpere
-- trading of cush certificates - green credit documents in simple digital and least-cost way
+- improving status of such soils to capture more carbon frmo atmosphpere
+- developing tools and platforms for trading of sush certificates - green credit documents in simple digital and least-cost way
