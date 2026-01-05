@@ -4,6 +4,7 @@ Inspired by works of Petar Nutrizio Grisogono (1748–1823) croatian physiocrati
 member of Brač-Hvar bishop Stratico's movement influenced by realm of French thinker's school - whose main represetnatives are Voltaire, Rousseau and Montesquieu
 - Physiocrats which established first scientific school of political economy.
 
+Among other things, dr. Petar Nutrizio Grisogono was president of council of City of Split, Croatia, in 1814. and interim city mayor 1814.-1818.
 
 Petar Nutrizio Grilsogono u "Notizie per servire alla storia naturale della Dalmazia"
 opisuje zemljopisnu, zooloošku, geološku, hidrografsku i uopće fizičku pojavnost Dalmacije i njezinu prirodu kao nešto što će čovjek iskorištavati i podrediti sebi.
