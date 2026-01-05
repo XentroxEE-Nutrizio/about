@@ -23,8 +23,8 @@ more at: https://hrcak.srce.hr/file/130655
 
 Modern concept and teachings of Petar Nutrizio Grisogono and his group principally today would focus
 on application of terraforming concepts that would boost CO2 and other greenhouse gas emmisions in form of soil CO2 sequastration (storage or capture)
-by boosting SOC - Soil Organic Carbon. Example of one such measure is already mentioned seeding of nitrogen fixators with small footpring such as miniature growth
-Trifolium Repens var Pipolina - experimentally gron in Opuzen ad cover crop on future SOC-derived carbon credits scheme.
+by boosting SOC - Soil Organic Carbon. Example of one such measure is already mentioned seeding of nitrogen fixators with small footprint as cover crops in poly culture,
+such as miniature growth Trifolium Repens var Pipolina - experimentally grown in Opuzen as cover crop on future SOC-derived carbon credits scheme for citrus orchards and other arable surfaces.
 
 Features and programming in this master-repo is dedicated to solving three things:
 - soil analysis and rapid data acquisition in-situ about soil properties on agriculture lands
