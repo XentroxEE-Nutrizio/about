@@ -1,7 +1,7 @@
 # About (NUTRIZIO project MANIFEST)
 
 Inspired by works of Petar Nutrizio Grisogono (1748–1823) croatian physiocratic thinker from Dalmatia,
-member of Brač-Hvar bishop Stratico's movement influenced by realm of French thinker's school - whose main represetnatives are Voltaire, Rousseau and Montesquieu
+member of Brač-Hvar bishop Stratico's movement influenced by realm of French thinker's school - whose main representatives are Voltaire, Rousseau and Montesquieu
 - Physiocrats which established first scientific school of political economy.
 
 Among other things, Conte Petar Nutrizio Grisogono, Ph.D. was president of council of City of Split, Croatia, in 1814. and interim city mayor 1814.-1818.
